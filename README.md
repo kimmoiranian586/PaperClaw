@@ -1,5 +1,7 @@
 # PaperClaw
 
+#CA: 8Sr83QJW12HMnxvg7HzHZvdFfj6G8j7AwzKmyBfRpump
+
 **A production-ready OpenClaw skill library for academic research teams**
 
 [![Skills](https://img.shields.io/badge/skills-27-blue?style=flat-square)]()
