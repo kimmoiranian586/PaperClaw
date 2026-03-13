@@ -45,7 +45,7 @@ PaperClaw is designed for research teams — labs, collaborative projects, cross
 OpenClaw loads workspace skills from `<workspace>/skills`. A practical setup:
 
 ```bash
-git clone https://github.com/your-handle/PaperClaw.git
+git clone https://github.com/meowscles69/PaperClaw.git
 mkdir -p ~/.openclaw/workspace/skills
 cp -R PaperClaw/skills/* ~/.openclaw/workspace/skills/
 ```
